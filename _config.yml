@@ -1,14 +1,12 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             A.Onur Demir
+author:            A.Onur Demir
 baseurl:           "/"
 url:               "http://aonurdemir.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  aonurdemir
+github_username:   aonurdemir
+facebook_username: aonurdemir
 
 # Build settings
 markdown:          kramdown
